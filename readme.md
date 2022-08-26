@@ -9,7 +9,7 @@ OMS is a full featured Activity, Membership Management Platform that can:
     - Text using Sephamore API
 
 ## Contributing
-
+This is now a deprecated project. DO NOT USE!
 Please email seal.org@iacademy.edu.ph
 
 ## Security Vulnerabilities
